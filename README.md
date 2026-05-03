@@ -1,6 +1,9 @@
-# My Second Spring Boot Project
+<h1 align="left">
+  Studying Java Spring
+  <img src="https://github.com/user-attachments/assets/9705bdff-b786-4a16-bd2c-498ea325cc12" alt="Spring_Boot svg" width="30"/>
+</h1>
 
-A beginner-friendly Spring Boot application for Java web development.
+Examples and notes on **Spring Framework** and **Spring Boot**.
 
 ## Prerequisites
 
